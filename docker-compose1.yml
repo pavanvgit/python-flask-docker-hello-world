@@ -1,0 +1,4 @@
+prod:
+  image: python-flask-docker-hello-world:latest
+  ports:
+    - '5000'
